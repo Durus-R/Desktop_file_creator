@@ -11,7 +11,8 @@ If you don't want a [...] at the beginning of your file, name the first category
 
 ## Build
 
-```cmake -G "Unix Makefiles"
+```
+cmake -G "Unix Makefiles"
 make
 ```
 
