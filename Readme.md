@@ -9,6 +9,10 @@ Little Tip:
 
 If you don't want a [...] at the beginning of your file, name the first category \(null\)
 
+## Dependencies
+- Linux
+- QT 6 (Qt 5 is not supported)
+
 ## Build
 
 ```
